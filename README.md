@@ -5,6 +5,12 @@
 - 🍼 I like to scroll [it](https://git-scm.com/book/en/v2) in the middle of night 
 
 
+I am a self-taught, infrastructure-focused engineer who dreams of coding, solving complex problems, and using math to better understand the world and predict its changes with higher precision.
+I am fascinated by technologies and I imagine and get sparked by ideas very often.
+
+My plan here is to reflect on how quickly I can grasp the basics and start working on projects. In parallel, I am learning mathematics and becoming intrigued by [this](https://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/computation-cognition/).
+
+
 <!---
 theshpio/theshpio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
