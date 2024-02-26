@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @theshpio
 - 🌱 I’m currently learning C
 - :books: My library is [humble-bundle](https://www.humblebundle.com/books)
-
-
+- :writing_hand: I like to find something new in [vim](https://vimhelp.org/index.txt.html)
+- 🍼 I like to scroll [it](https://git-scm.com/book/en/v2) in the middle of night 
 
 
 <!---
