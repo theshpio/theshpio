@@ -1,6 +1,6 @@
 <sup> 👋 Hi, I’m here having fun!</sup>
 <sup> :books: My library is [humble-bundle](https://www.humblebundle.com/books)</sup>
-<sup> :writing_hand: I like to find something new in [vim](https://vimhelp.org/index.txt.html) and [git](https://git-scm.com/book/en/v2)</sup>
+<sup> :writing_hand: I like to find something new in [vim](https://vimhelp.org/index.txt.html), [git](https://git-scm.com/book/en/v2), [curl](https://everything.curl.dev/) ...</sup>
 
 
 <sup>I am a self-taught, infrastructure-focused engineer which explores and dreams.
